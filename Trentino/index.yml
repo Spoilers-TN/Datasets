@@ -1,0 +1,9 @@
+Region: Trentino
+Schools:
+  - TNTF01301D:
+      Enabled: True
+      Name: ITT Buonarroti Pozzo
+      Phone: 0461216811
+      City: Trento
+      Address: Via Brigata Acqui, 15
+      Cap: 38122
