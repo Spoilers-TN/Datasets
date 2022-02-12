@@ -1,1 +1,12 @@
-
+Name: ITT Buonarroti Pozzo
+ID: TNTF01301D
+Phone: 0461216811
+Cap: 38122
+City: Trento
+Address: Via Brigata Acqui, 15
+Classes:
+  - 121445:
+      Classe: 4
+      Sector: Informatica
+      Section: A
+      Enabled: True
