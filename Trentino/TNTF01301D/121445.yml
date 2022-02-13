@@ -1,0 +1,85 @@
+Classe: 4
+Sector: Informatica
+Section: A
+Books:
+  - Authors: "SAMBUGAR MARTA - SALA'' GABRIELLA '"
+    Needed: True
+    Topic: "ITALIANO LETTERATURA"
+    Publisher: "LA NUOVA ITALIA EDITRICE"
+    ISBN: "9788822177070"
+    NewAdoption: False
+    Subtitle: "VOLUME 2 + GUIDA ALL'ESAME 2 + ESPANSIONE WEB 2"
+    Title: "LL LABORATORIO DI LETTERATURA 2 - EDIZIONE MISTA"
+    Digital: False
+  - AUTORI: "BERGAMINI MASSIMO - BAROZZI GRAZIELLA "
+    Needed: True
+    Topic: "MATEMATICA"
+    Publisher: "ZANICHELLI Publisher"
+    ISBN: "9788808831538"
+    NewAdoption: False
+    Subtitle: "VOLUME 4A + VOLUME 4B"
+    Title: "MATEMATICA.VERDE 2ED. - CONFEZIONE 4 (LDM)"
+    Digital: False
+  - AUTORI: "GIOVANNI DE LUNA - MARCO MERIGGI "
+    Needed: True
+    Topic: "STORIA"
+    Publisher: "PARAVIA"
+    ISBN: "9788839525680"
+    NewAdoption: False
+    Subtitle: "DALLA METÃ\x80 DEL SEICENTO ALLâ\x80\x99OTTOCENTO"
+    Title: "LA RETE DEL TEMPO 2"
+    Digital: False
+  - AUTORI: "LO RUSSO LUIGI - BIANCHI ELENA "
+    Needed: False
+    Topic: "SISTEMI E RETI"
+    Publisher: "HOEPLI"
+    ISBN: "9788820395162"
+    NewAdoption: False
+    Subtitle: "PER L'ARTICOLAZIONE INFORMATICA DEGLI ISTITUTI TECNICI SETTORE TECNOLOGICO"
+    Title: "NUOVO SISTEMI E RETI"
+    Digital: False
+  - AUTORI: "CAMAGNI PAOLO - NIKOLASSY RICCARDO "
+    Needed: False
+    Topic: "TECNOLOGIE E PROGETTAZIONE DI SISTEMI INFORMATICI E DI TELECOMUNICAZIONI"
+    Publisher: "HOEPLI"
+    ISBN: "9788820394806"
+    NewAdoption: False
+    Subtitle: "PER L'ARTICOLAZIONE INFORMATICA DEGLI ISTITUTI TECNICI SETTORE TECNOLOGICO"
+    Title: "NUOVO TECNOLOGIE E PROGETTAZIONE DI SISTEMI INFORMATICI E DI TELECOMUNICAZIONI"
+    Digital: False
+  - AUTORI: "AAVV  "
+    Needed: False
+    Topic: "INGLESE"
+    Publisher: "CAMBRIDGE UNIVERSITY PRESS"
+    ISBN: "9781107640399"
+    NewAdoption: False
+    Subtitle: "SB WITHOUT ANSWERS WITH CD-ROM, WB WITHOUT ANSWERS WITH AUDIO CD"
+    Title: "COMPLETE FIRST FOR SCHOOLS"
+    Digital: False
+  - AUTORI: "O'MALLEY  "
+    Needed: False
+    Topic: "INGLESE"
+    Publisher: "PEARSON LONGMAN"
+    ISBN: "9788883391118"
+    NewAdoption: False
+    Subtitle: " "
+    Title: "ENGLISH FOR NEW TECHNOLOGY + ACTIVE BOOK"
+    Digital: False
+  - AUTORI: "BERGAMINI MASSIMO - BAROZZI GRAZIELLA "
+    Needed: False
+    Topic: "MATEMATICA"
+    Publisher: "ZANICHELLI Publisher"
+    ISBN: "9788808837837"
+    NewAdoption: False
+    Subtitle: "VOL. 3A + VOL. 3B"
+    Title: "MATEMATICA.VERDE 2ED. - CONFEZIONE 3 (LDM)"
+    Digital: False
+  - AUTORI: "FERRARI EMILIO - GALBASSINI CESARINO "
+    Needed: False
+    Topic: "TELECOMUNICAZIONI"
+    Publisher: "SAN MARCO"
+    ISBN: "9788884882615"
+    NewAdoption: False
+    Subtitle: "CON QUADERNO OPERATIVO DI LABORATORIO"
+    Title: "TELECOMUNICAZIONI PER INFORMATICA + LABORATORIO"
+    Digital: False
